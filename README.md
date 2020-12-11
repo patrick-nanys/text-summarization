@@ -3,7 +3,7 @@
 Topic: NLP - Abstractive text summarization
 
 Authors*: Patrick Nanys, Mate Jakab (Goal Diggers)  <br />
-Subject: VITMAV45 - Deep Learning in Practice with Python and LUA
+Subject: VITMAV45 - Deep Learning in Practice with Python and LUA <br />
 Keywords: LSTM, pretrained model, BERT, GloVe, Amazon reviews
 
 This is a homework project that was created while listening to the Deep learning in practise course.
