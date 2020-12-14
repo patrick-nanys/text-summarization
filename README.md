@@ -1,6 +1,7 @@
 # text-summarization
 
 Topic: NLP - Abstractive text summarization
+
 Link of presentation video: https://youtu.be/7btjPWbfidE
 
 Authors*: Patrick Nanys, Mate Jakab** (Goal Diggers)  <br />
